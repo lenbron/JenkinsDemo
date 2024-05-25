@@ -1,6 +1,6 @@
 module demo;
 	
 	initial begin
-		$display("Hello world1111111!!!!");
+		$display("Hello world!!!!");
 	end
 endmodule
